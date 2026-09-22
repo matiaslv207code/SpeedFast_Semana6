@@ -63,7 +63,7 @@ git clone https://github.com/matiaslv207code/SpeedFast_Semana6.git
 
 ---
 
-© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final Transversal EFT
+© Duoc UC | Escuela de Informática y Telecomunicaciones | Actividad Formativa Semana 6
 
 
 
